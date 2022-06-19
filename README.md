@@ -9,3 +9,19 @@
 
 # Netflix Disney Spotify等流媒体合租
 https://ihezu.run/knVHXP
+# 最新黑苹果安装教程所需工具下载
+1.Python：https://www.python.org
+
+2.Rufus：https://rufus.ie
+
+3.OpenCore：https://dortania.github.io/OpenCore-Install-Guide/
+
+4.opencore核心包下载：https://github.com/acidanthera/OpenCorePkg/releases
+
+5.各种机型的EFI引导文件下载：https://github.com/daliansky/Hackintosh
+
+6.ProperTree：https://github.com/corpnewt/ProperTree
+
+7.GenSMBIOS：https://github.com/corpnewt/GenSMBIOS
+
+8.OpenCore Configurator：https://mackie100projects.altervista.org/opencore-configurator/
